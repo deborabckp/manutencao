@@ -20,4 +20,5 @@ O sistema registra eventos importantes como:
 
 ## Testes Automatizados
 Os testes automatizados foram implementados utilizando pytest.
+
 Todos os cenários principais foram cobertos e passaram com sucesso.
